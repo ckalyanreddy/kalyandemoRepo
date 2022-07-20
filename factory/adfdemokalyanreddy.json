@@ -1,0 +1,9 @@
+{
+	"name": "adfdemokalyanreddy",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e5f3a426-e4cf-4e6e-a012-55e7eae27a72",
+		"tenantId": "c146ff8a-70cd-4cfd-981a-b5967ac0fdff"
+	}
+}
